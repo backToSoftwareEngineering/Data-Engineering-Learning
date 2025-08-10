@@ -20,6 +20,8 @@ Welcome to my daily learning log for data engineering! This space is dedicated t
 * **[2025-08-08] Web Scraping with BeautifulSoup & Pandas**
   *  IC3 Annual Report Data Scraper (https://www.ic3.gov/AnnualReport/Reports/2016State/#?s=1)
   *  Requests for fetching HTML, BeautifulSoup for HTML parsing, handling tables with complex structures, and the process of converting scraped data into a pandas DataFrame.
-
+  *  
+* **[2025-08-10] Advanced Web Scraping & Function Encapsulation**
+  *  Encapsulating complex logic into reusable functions, handling multiple tables with different HTML schemas, and passing data between functions.
 ---
 
